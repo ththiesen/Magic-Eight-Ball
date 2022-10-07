@@ -16,11 +16,9 @@ switch(randomNumber) {
 case 0:
   eightBall = 'It is certain'
   break;
-
 case 1:
   eightBall = 'It is decidedly so'
   break;
-
 case 2:
   eightBall = 'Reply hazy try again'
   break;
